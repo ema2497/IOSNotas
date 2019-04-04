@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "CVZ-d5-DQf"; */
+"CVZ-d5-DQf.normalTitle" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "D5y-wu-bCV"; */
+"D5y-wu-bCV.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Add Notes"; ObjectID = "aFh-ap-1b0"; */
+"aFh-ap-1b0.title" = "Add Notes";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum "; ObjectID = "jsq-ah-C3f"; */
+"jsq-ah-C3f.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum ";
+
+/* Class = "UITextField"; placeholder = "enter notes title"; ObjectID = "k4u-bx-d9d"; */
+"k4u-bx-d9d.placeholder" = "enter notes title";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "rt2-SC-mpO"; */
+"rt2-SC-mpO.normalTitle" = "Delete";
+
+/* Class = "UINavigationItem"; title = "List notes"; ObjectID = "skL-Xk-X3m"; */
+"skL-Xk-X3m.title" = "List notes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uhQ-sr-xBf"; */
+"uhQ-sr-xBf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wZr-AY-ZwX"; */
+"wZr-AY-ZwX.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "zZI-9D-sfo"; */
+"zZI-9D-sfo.title" = "Back";
